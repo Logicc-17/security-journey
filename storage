@@ -1,0 +1,18 @@
+print(response)
+output={"results":response.stdout}
+with open('output.json', 'w') as json_file:
+    json.dump(output, json_file,indent=4)
+
+
+    
+column=lines[1].split(" ")
+
+data={
+    "protocal":[column[0]],
+    "Recv-q":[column[1]]
+
+    }
+
+for line in lines:
+    count=0
+ 

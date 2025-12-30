@@ -1,0 +1,131 @@
+{
+    "timestamp": "2025-12-30_08-32-51",
+    "output": [
+        {
+            "sessionID": "2f2778f1-5dee-4211-897a-40054af1bb10",
+            "Protocal": "tcp",
+            "Local address": "yokaii:45100",
+            "Foreign address": "52.178.17.232:https",
+            "state": "ESTABLISHED",
+            "pId": "229929/exe",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "80cf03fb-20b4-43e0-b8cf-a56326695b1e",
+            "Protocal": "tcp",
+            "Local address": "yokaii:45102",
+            "Foreign address": "52.178.17.232:https",
+            "state": "ESTABLISHED",
+            "pId": "230062/exe",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "22b9f732-9363-43c3-9e0d-f905c8b8114d",
+            "Protocal": "tcp",
+            "Local address": "yokaii:45110",
+            "Foreign address": "52.178.17.232:https",
+            "state": "ESTABLISHED",
+            "pId": "229929/exe",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "d03605b2-67fb-47a8-a3bd-880ae2c20329",
+            "Protocal": "tcp",
+            "Local address": "yokaii:59104",
+            "Foreign address": "a2-16-162-174.dep:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "b330a9c0-18ec-4c70-b08c-9c6e83454e7c",
+            "Protocal": "tcp",
+            "Local address": "yokaii:39584",
+            "Foreign address": "3.173.21.63:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "49b8f8ba-be20-49df-b80e-98033e19a094",
+            "Protocal": "tcp",
+            "Local address": "yokaii:38410",
+            "Foreign address": "yulhrs-in-f84.1e1:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "0597d380-54f3-46b8-b454-67404318b779",
+            "Protocal": "tcp",
+            "Local address": "yokaii:39558",
+            "Foreign address": "93.243.107.34.bc.:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "c8bf9a34-decd-4a93-8aa7-a135434d115a",
+            "Protocal": "tcp",
+            "Local address": "yokaii:54142",
+            "Foreign address": "24.224.186.35.bc.:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "776e075a-5df9-4cc0-a0e7-f35804658465",
+            "Protocal": "tcp",
+            "Local address": "yokaii:54152",
+            "Foreign address": "24.224.186.35.bc.:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "223dba96-d5c1-420e-9cf3-5e4f88c398ff",
+            "Protocal": "tcp",
+            "Local address": "yokaii:44738",
+            "Foreign address": "26.224.186.35.bc.:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "d1df1a56-8ea9-404a-a108-76e7680539c4",
+            "Protocal": "tcp",
+            "Local address": "yokaii:38528",
+            "Foreign address": "ec2-18-97-36-44.c:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "fbab6a1d-c0e5-440f-ac74-d4b78c910b40",
+            "Protocal": "tcp",
+            "Local address": "yokaii:57256",
+            "Foreign address": "33.224.186.35.bc.:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "b8ebb018-76f2-442d-92b4-6a9a7b84232c",
+            "Protocal": "tcp",
+            "Local address": "yokaii:34812",
+            "Foreign address": "172.64.148.235:https",
+            "state": "ESTABLISHED",
+            "pId": "234246/firefox-esr",
+            "time": "08:32:52"
+        },
+        {
+            "sessionID": "b5b40a5b-b7e7-46ab-8a7a-1d26866f64a6",
+            "Protocal": "udp",
+            "Local address": "yokaii:bootpc",
+            "Foreign address": "_gateway:bootps",
+            "state": "ESTABLISHED",
+            "pId": "-",
+            "time": "08:32:52"
+        }
+    ]
+}
