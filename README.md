@@ -5,7 +5,6 @@
 
 The **Living Documentation Engine** is a Python CLI tool that monitors your system’s network connections in real-time, logs them, and analyzes potential vulnerabilities automatically.
 
-It is designed to **help you learn deeply about networking, Python, and cybersecurity** while building something practical and useful.
 
 ---
 
